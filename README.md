@@ -54,9 +54,4 @@ Rotating the SSH-KEY :
 
 The intention of this project is to enhance a rolling update of existing ssh key. The playbook will fetch the list of instances in the particular region  mentioned in the "aws.vars" file and update the old ssh-keys with new one in each instances at a glance and upload the same to AWS.
 
-<p align="center">
-<a href="mailto:mathew.amalbose@gmail.com"><img src="https://img.shields.io/badge/-mathew.amalbose@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amal-bose-mathew"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>
-  
 
